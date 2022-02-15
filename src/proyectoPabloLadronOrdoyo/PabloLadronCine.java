@@ -34,4 +34,8 @@ public class PabloLadronCine {
 	public String getNombreCompositor() {
 		return nombreCompositor;
 	}
+	
+	public void setNombreCompositor(String nombreCompositor) {
+		this.nombreCompositor = nombreCompositor;
+	}
 }
