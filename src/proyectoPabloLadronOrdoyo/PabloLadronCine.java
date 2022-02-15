@@ -14,4 +14,8 @@ public class PabloLadronCine {
 		this.nombreDirector = nombreDirector;
 		this.nombreCompositor = nombreCompositor;
 	}
+
+	public String getNombreHobby() {
+		return nombreHobby;
+	}
 }
