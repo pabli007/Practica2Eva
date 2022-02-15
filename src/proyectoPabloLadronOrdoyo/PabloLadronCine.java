@@ -22,4 +22,8 @@ public class PabloLadronCine {
 	public void setNombreHobby(String nombreHobby) {
 		this.nombreHobby = nombreHobby;
 	}
+	
+	public String getNombreDirector() {
+		return nombreDirector;
+	}
 }
