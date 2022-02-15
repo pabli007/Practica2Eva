@@ -26,4 +26,8 @@ public class PabloLadronCine {
 	public String getNombreDirector() {
 		return nombreDirector;
 	}
+	
+	public void setNombreDirector(String nombreDirector) {
+		this.nombreDirector = nombreDirector;
+	}
 }
