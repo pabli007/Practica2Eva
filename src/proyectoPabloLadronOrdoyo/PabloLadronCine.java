@@ -14,6 +14,12 @@ public class PabloLadronCine {
 		this.nombreDirector = nombreDirector;
 		this.nombreCompositor = nombreCompositor;
 	}
+	
+	private void loopMil() {
+		for(int i=1; i<=100; i++){
+            System.out.println(i + " Cine");
+        }
+	}
 
 	public String getNombreHobby() {
 		return nombreHobby;
